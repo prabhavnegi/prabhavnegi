@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhavnegi
 - 👀 I’m interested in full stack development and network security.
 - 🌱 I’m currently learning Vuejs and DAA
-- 💞️ I’m looking to collaborate on any fullstack technologya and framework.
+- 💞️ I’m looking to collaborate on any fullstack technology and framework.
 - 📫 How to reach me --> ig: prabhav0 email: prabhav511@gmail.com
 
 <!---
