@@ -7,7 +7,7 @@
 - 👀 I’m interested in full stack development and network security.
 - 🌱 I’m currently learning Vuejs and DAA
 - 💞️ I’m looking to collaborate on any fullstack technology and framework.
-- 📫 How to reach me --> [Mail](prabhav511@gmail.com) [Linkedin](https://www.linkedin.com/in/prabhav-negi-6b76801ba/)
+- 📫 How to reach me --> Mail : prabhav511@gmail.com [Linkedin](https://www.linkedin.com/in/prabhav-negi-6b76801ba/)
 
 <!---
 prabhavnegi/prabhavnegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
