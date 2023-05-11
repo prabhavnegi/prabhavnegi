@@ -5,7 +5,7 @@
 ##
 
 - 👀 I’m interested in full stack development and network security.
-- 🌱 I’m currently learning Vuejs and DAA
+- 🌱 I’m currently learning how to do open source contribution.
 - 💞️ I’m looking to collaborate on any fullstack technology and framework.
 - 📫 How to reach me --> &nbsp; [Gmail](prabhav511@gmail.com) &nbsp; | &nbsp;[Linkedin](https://www.linkedin.com/in/prabhav-negi-6b76801ba/)
 
