@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 ##
 
  <p>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavnegi&layout=compact">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavnegi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
   </p>
